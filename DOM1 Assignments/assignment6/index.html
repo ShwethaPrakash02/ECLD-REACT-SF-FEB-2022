@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <h1>TIP CALCULATOR </h1>
+      <label>BILL AMOUNT</label> 
+      <input type="text" id="bill_amount" required />
+      <label>PERCENTAGE TIP</label> 
+      <input type="text" id="percentage_tip" required >
+      <label>TIP AMOUNT</label>
+      <input type="text" id="tip_amount" />
+      <label>TOTAL</label>
+      <input type="text" id="total_bill" />
+      <button onclick="tipCalcy()" id="btn">CALCULATE</button>
+      <p id="error"></p>
+    </div>
+    <script src="./index.js"></script>
+  </body>
+</html>

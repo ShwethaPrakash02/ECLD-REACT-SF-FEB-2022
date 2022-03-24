@@ -1,0 +1,45 @@
+body{
+text-align: center;
+}
+#heading {
+    text-align: center;
+    font-size: 38px;
+}
+.btn{
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    border-radius: 2ex;
+    margin: 10px;
+    border: 3px solid black;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+}
+.btn1 {
+    background-color: #e0e0e0;
+    
+
+}
+.btn2 {
+    background-color: #6fcf97;
+    
+}
+
+.btn3 {
+    background-color:#56ccf2;
+    
+}
+.btn4 {
+    background-color: #bb6bd9;
+    
+}
+.para{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
