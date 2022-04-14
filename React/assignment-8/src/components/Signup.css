@@ -1,0 +1,59 @@
+.signup{
+    width:30%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    box-shadow: 5px 10px 18px #888888;
+     background-color: rgb(147, 189, 191);
+    
+   
+}
+.input{
+    width: 90%;
+    border: none;
+    height: 30%;
+    border-radius: 4px;
+    padding: 8px;
+    text-align: center;
+    box-shadow: 5px 10px 20px rgb(214, 209, 209) inset;
+}
+.marital-div{
+    text-align: left;
+    padding-left: 60px;
+    
+}
+.div{
+    margin: 10px;
+    width: 80%;
+    height: 30%;
+    padding: 0 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 15px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.submit-input{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(2, 150, 155);
+    color: white;
+    font-size: larger;
+    border: none;
+    
+}
+
+.submit-div{
+    margin: 10px 0;
+}
+.div-log{
+    margin: 10px;
+}
+.click-btn{
+    border: none;
+    background-color: rgb(147, 189, 191);
+    color: blue;
+    font-size: larger;
+}
